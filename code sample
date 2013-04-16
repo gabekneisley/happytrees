@@ -1,0 +1,8 @@
+
+<comment-input>
+  {{ logged-in-user }}
+</comment-input>
+<comment-list>
+  <comment>{{ comment }}<comment>
+  <empty>There are no comments</empty>
+</comment-list>
